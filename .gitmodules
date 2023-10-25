@@ -1,0 +1,30 @@
+[submodule "CPE357"]
+	path = CPE357
+	url = git@github.com:ManFromPABB/CPE357.git
+[submodule "csc357-assignment1-ManFromPABB"]
+	path = csc357-assignment1-ManFromPABB
+	url = https://github.com/amigler-cp/csc357-assignment1-ManFromPABB
+[submodule "csc357-assignment2-ManFromPABB"]
+	path = csc357-assignment2-ManFromPABB
+	url = https://github.com/amigler-cp/csc357-assignment2-ManFromPABB
+[submodule "csc357-assignment3-ManFromPABB"]
+	path = csc357-assignment3-ManFromPABB
+	url = https://github.com/amigler-cp/csc357-assignment3-ManFromPABB
+[submodule "csc357-assignment4-ManFromPABB"]
+	path = csc357-assignment4-ManFromPABB
+	url = https://github.com/amigler-cp/csc357-assignment4-ManFromPABB
+[submodule "csc357-lab1-ManFromPABB"]
+	path = csc357-lab1-ManFromPABB
+	url = https://github.com/amigler-cp/csc357-lab1-ManFromPABB
+[submodule "csc357-lab2-ManFromPABB"]
+	path = csc357-lab2-ManFromPABB
+	url = https://github.com/amigler-cp/csc357-lab2-ManFromPABB
+[submodule "csc357-lab3-ManFromPABB"]
+	path = csc357-lab3-ManFromPABB
+	url = https://github.com/amigler-cp/csc357-lab3-ManFromPABB
+[submodule "csc357-assignment6-ManFromPABB"]
+	path = csc357-assignment6-ManFromPABB
+	url = https://github.com/amigler-cp/csc357-assignment6-ManFromPABB
+[submodule "csc357-assignment5-ManFromPABB"]
+	path = csc357-assignment5-ManFromPABB
+	url = https://github.com/amigler-cp/csc357-assignment5-ManFromPABB
